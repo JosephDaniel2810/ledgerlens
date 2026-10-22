@@ -1,0 +1,17 @@
+{"id": "aapl-rnd", "query": "How much did Apple spend on research and development?", "ticker": "AAPL", "items": ["7", "8"], "contains": ["research and development"]}
+{"id": "aapl-supply-risk", "query": "What supply chain risks does Apple describe?", "ticker": "AAPL", "items": ["1A"], "contains": ["supply"]}
+{"id": "aapl-iphone-sales", "query": "Apple iPhone net sales by year", "ticker": "AAPL", "items": ["7", "8"], "contains": ["iphone"]}
+{"id": "aapl-buybacks", "query": "Apple share repurchase program", "ticker": "AAPL", "items": ["5", "7", "8"], "contains": ["repurchase"]}
+{"id": "aapl-epic", "query": "What is the status of Apple's litigation with Epic Games?", "ticker": "AAPL", "items": ["3"], "contains": ["epic"]}
+{"id": "aapl-auditor", "query": "Who is Apple's independent auditor?", "ticker": "AAPL", "items": ["8", "9A"], "contains": ["ernst"]}
+{"id": "msft-azure", "query": "How fast did Microsoft Azure and cloud services revenue grow?", "ticker": "MSFT", "items": ["7"], "contains": ["azure"]}
+{"id": "msft-employees", "query": "How many people does Microsoft employ?", "ticker": "MSFT", "items": ["1"], "contains": ["employees"]}
+{"id": "msft-openai", "query": "Microsoft's investment in and partnership with OpenAI", "ticker": "MSFT", "items": ["7", "8"], "contains": ["openai"]}
+{"id": "msft-activision", "query": "Impact of the Activision Blizzard acquisition on Microsoft gaming", "ticker": "MSFT", "items": ["7", "8"], "contains": ["activision"]}
+{"id": "nvda-datacenter", "query": "Nvidia data center revenue growth", "ticker": "NVDA", "items": ["7", "15"], "contains": ["data center"]}
+{"id": "nvda-export", "query": "What export control risks does Nvidia face regarding China?", "ticker": "NVDA", "items": ["1A"], "contains": ["export"]}
+{"id": "nvda-customers", "query": "Does Nvidia depend on a small number of large customers?", "ticker": "NVDA", "items": ["1A", "7", "15"], "contains": ["customer"]}
+{"id": "nvda-blackwell", "query": "Nvidia Blackwell architecture", "ticker": "NVDA", "items": ["1", "7"], "contains": ["blackwell"]}
+{"id": "jpm-cyber", "query": "JPMorgan risks from cyberattacks", "ticker": "JPM", "items": ["1A", "1C", "15"], "contains": ["cyber"]}
+{"id": "jpm-cet1", "query": "JPMorgan CET1 capital ratio", "ticker": "JPM", "items": ["15"], "contains": ["cet1"]}
+{"id": "jpm-nii", "query": "JPMorgan net interest income", "ticker": "JPM", "items": ["15"], "contains": ["net interest income"]}

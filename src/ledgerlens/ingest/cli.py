@@ -22,9 +22,9 @@ REQUIRED_10K_ITEMS = {"1", "1A", "7", "8"}
 
 def run(tickers: list[str], forms: tuple[str, ...], limit: int) -> None:
     settings = get_settings()
-    client = EdgarClient(settings.sec_user_agent, settings.raw_dir)
+    client = EdgarClient(settings.require_sec_user_agent(), settings.raw_dir)
     settings.processed_dir.mkdir(parents=True, exist_ok=True)
-    out_path = settings.processed_dir / "chunks.jsonl"
+    out_path = settings.chunks_path
 
     # Rewrite chunks for the filings we process, keep everything else.
     existing = []
