@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LedgerLens: downloaded filings and generated artifacts
+data/
